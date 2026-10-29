@@ -1,0 +1,30 @@
+﻿# Node.js
+node_modules/
+dist/
+.vite/
+npm-debug.log*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Copias de seguridad
+backup-*/
+backup-dashboard-*/
+
+# Editores
+.vscode/
+.idea/
